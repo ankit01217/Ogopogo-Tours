@@ -319,7 +319,7 @@ Material:
       data:
         first:
           name: _Blend
-        second: -.000165691832
+        second: 1.5018611
     m_Colors:
       data:
         first:

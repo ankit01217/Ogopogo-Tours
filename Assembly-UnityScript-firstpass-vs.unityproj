@@ -50,7 +50,6 @@
      <Compile Include="Assets\Plugins\StateControl.js" />
      <Compile Include="Assets\Standard Assets\DMXControllerJS.js" />
      <Compile Include="Assets\Standard Assets\FloorController.js" />
-     <Compile Include="Assets\Standard Assets\FloorControllerOLD.js" />
      <None Include="Assets\Resources\BlurShader.shader" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
