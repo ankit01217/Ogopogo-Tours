@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: e18685b91ef850649a84841915b9d537
+timeCreated: 1445699575
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: elbow_l
+    100002: elbow_r
+    100004: //RootNode
+    100006: goose_geo
+    100008: head
+    100010: neck1
+    100012: neck2
+    100014: neck3
+    100016: neck4
+    100018: neck5
+    100020: nose
+    100022: root
+    100024: shoulder_l
+    100026: shoulder_r
+    100028: spine1
+    100030: spine2
+    100032: spine3
+    100034: spine4
+    100036: tail
+    100038: wing_l
+    100040: wing_r
+    100042: wrist_l
+    100044: wrist_r
+    400000: elbow_l
+    400002: elbow_r
+    400004: //RootNode
+    400006: goose_geo
+    400008: head
+    400010: neck1
+    400012: neck2
+    400014: neck3
+    400016: neck4
+    400018: neck5
+    400020: nose
+    400022: root
+    400024: shoulder_l
+    400026: shoulder_r
+    400028: spine1
+    400030: spine2
+    400032: spine3
+    400034: spine4
+    400036: tail
+    400038: wing_l
+    400040: wing_r
+    400042: wrist_l
+    400044: wrist_r
+    4300000: goose_geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: goose_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goose_geo
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/neck1
+        weight: 1
+      - path: root/neck1/neck2
+        weight: 1
+      - path: root/neck1/neck2/neck3
+        weight: 1
+      - path: root/neck1/neck2/neck3/neck4
+        weight: 1
+      - path: root/neck1/neck2/neck3/neck4/neck5
+        weight: 1
+      - path: root/neck1/neck2/neck3/neck4/neck5/head
+        weight: 1
+      - path: root/neck1/neck2/neck3/neck4/neck5/head/nose
+        weight: 1
+      - path: root/shoulder_l
+        weight: 1
+      - path: root/shoulder_l/elbow_l
+        weight: 1
+      - path: root/shoulder_l/elbow_l/wrist_l
+        weight: 1
+      - path: root/shoulder_l/elbow_l/wrist_l/wing_l
+        weight: 1
+      - path: root/shoulder_r
+        weight: 1
+      - path: root/shoulder_r/elbow_r
+        weight: 1
+      - path: root/shoulder_r/elbow_r/wrist_r
+        weight: 1
+      - path: root/shoulder_r/elbow_r/wrist_r/wing_r
+        weight: 1
+      - path: root/spine1
+        weight: 1
+      - path: root/spine1/spine2
+        weight: 1
+      - path: root/spine1/spine2/spine3
+        weight: 1
+      - path: root/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: root/spine1/spine2/spine3/spine4/tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
